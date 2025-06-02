@@ -35,7 +35,7 @@ To build an AI Psychiatry Agent that can:
 
 ---
 
-## 📁 Project Structure
+
 
 
 
